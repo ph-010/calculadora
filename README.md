@@ -3,19 +3,20 @@
 ## **Objetivo da Calculadora Python**
 Projeto da calculadora Python é ajudar você em equações matemáticas básicas.
 
-## **Funcionalidade**
--**Operações básicas**:
- -Soma;
- -Subtração;
- -Divisão;
- -Multiplicação;
- -**Interações**:
- -Menu interativo;
- -verificação de entrada;
+## **Funcionalidades**
+- **Operações básicas**:
+  - Soma
+  - Subtração
+  - Multiplicação
+  - Divisão 
+- **Interatividade**:
+  - Menu interativo.
+  - verificação de comandos.
+
 
  ### **Modificações Futuras**
- -Maior possibilidade de operações como potência, raiz e fatorial.
-
+ - Maior possibilidade de operações como potência, raiz e fatorial.
+ 
  ## **Cronograma**
 | **Etapa**                 | **Descrição**                                      | **Prazo**           |
 |---------------------------|--------------------------------------------------|---------------------|
